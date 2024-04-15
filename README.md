@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pragyanthapa
-- 👀 I’m interested in Web Development, Blockchain Development
 - 🌱 I’m currently learning Solidity, Javascript, Cpp
 - 💞️ I’m looking to collaborate on exciting web development projects.
 - 😄 Pronouns: He/Him
