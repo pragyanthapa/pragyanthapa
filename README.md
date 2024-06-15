@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pragyanthapa
-- 🌱 I’m currently learning MERN Stack, Javascript, Cpp
+- 🌱 I’m currently learning MERN Stack, Javascript, Java
 - 💞️ I’m looking to collaborate on exciting web development projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a volleyball player. Well, I do write about stuffs as well sometimes.
