@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragyan Thapa</h1>
-<h3 align="center">I am a full-stack web developer. Right now I'm working on Web3 and DevOps.</h3>
+<h3 align="center">Engineer @MeraEvents, Full Stack Developer, GU'27</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyanthapa&label=Profile%20views&color=0e75b6&style=flat" alt="pragyanthapa" /> </p>
 
